@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\NoParacyticDrain\About\About.xml
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\NoParacyticDrain\NoParacyticDrain.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\NoParacyticDrain\NoParacyticDrain.pdb
+C:\Users\donav\source\repos\NoParacyticDrain\NoParacyticDrain\obj\Release\NoParacyticDrain.csprojAssemblyReference.cache
+C:\Users\donav\source\repos\NoParacyticDrain\NoParacyticDrain\obj\Release\NoParacyticDrain.csproj.CoreCompileInputs.cache
+C:\Users\donav\source\repos\NoParacyticDrain\NoParacyticDrain\obj\Release\NoParacyticDrain.csproj.CopyComplete
+C:\Users\donav\source\repos\NoParacyticDrain\NoParacyticDrain\obj\Release\NoParacyticDrain.dll
+C:\Users\donav\source\repos\NoParacyticDrain\NoParacyticDrain\obj\Release\NoParacyticDrain.pdb
